@@ -6,9 +6,10 @@
 
 ### 👩🏽‍💻 About me
 
-I'm student at **Southern States University** and I'm pursuing more knolodge in **Information Technology**. I enjoy learning about current innovations such as cloud computing,
+I'm student at **Southern States University** and I'm pursuing more knolodge in **_Information Technology_**. I enjoy learning about current innovations such as cloud computing,
 artificial intelligence. I also like to learn how these technologies can benefit us on a daily basis.
 
+<br>
 
 ### 🐙/🐱 GitHub and ☁️ Cloud Computing
 
@@ -23,9 +24,9 @@ The more I study and learn about tools like **AWS**, **Microsoft Azure**, and **
 code repositories to pipelines, containers, and serveless architetures</ins>. This allows for rapid innovation, scability, and a simple deploy process.
 
 
-And I would like to share a quote that I really like:
+<br>
+I would like to share a quote that I really like:
 > Technology will never replace great teachers, but technology in the hands of great teachers is transformational. – George Couros
-
 
 
 <!--
