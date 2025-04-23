@@ -25,6 +25,7 @@ code repositories to pipelines, containers, and serveless architetures</ins>. Th
 
 <br>
 I would like to share a quote that I really like:
+
 > Technology will never replace great teachers, but technology in the hands of great teachers is transformational. – George Couros
 
 
