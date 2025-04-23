@@ -9,7 +9,6 @@
 I'm student at **Southern States University** and I'm pursuing more knolodge in **_Information Technology_**. I enjoy learning about current innovations such as cloud computing,
 artificial intelligence. I also like to learn how these technologies can benefit us on a daily basis.
 
-<br>
 
 ### 🐙/🐱 GitHub and ☁️ Cloud Computing
 
